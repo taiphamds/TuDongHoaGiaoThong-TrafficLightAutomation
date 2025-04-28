@@ -1,1 +1,1 @@
-[GiaoThongThongMinh.pdf](https://github.com/user-attachments/files/19934452/GiaoThongThongMinh.pdf)
+[GiaoThongThongMinh.pdf](https://github.com/user-attachments/files/19934452/TomTatGiaoThongThongMinh.pdf)
