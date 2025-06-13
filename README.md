@@ -1,5 +1,5 @@
 # Intelligent Transportation System – Personal Project
-This project proposes an algorithm to calculate green light durations based on the number of vehicles waiting at red lights on each individual road at an intersection(Read summary.pdf for more details).
+This project proposes an algorithm to calculate green light durations based on the number of vehicles waiting at red lights on each individual road at an intersection(Read '(Summary)GiaoThongThongMinh.pdf' for more details).
 
 ## Key Features
 - Vehicle detection using YOLOv10
