@@ -6,3 +6,4 @@ Ví dụ: tại ngã tư Đông-Tây-Nam-Bắc(Đông-Tây đối diện nhau, N
 
 https://github.com/user-attachments/assets/b390e1da-6e31-496d-8123-d4b302bb2c91
 
+## Yolov8 từ Huy Ngô https://www.kaggle.com/code/vhn1305/traffic-detection/output?select=yolov8n.pt
