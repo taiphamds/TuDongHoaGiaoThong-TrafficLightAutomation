@@ -4,4 +4,5 @@ Dặt vấn đề ở ngã tư đèn giao thông: khi mật độ giao thông gi
 Ví dụ: tại ngã tư Đông-Tây-Nam-Bắc(Đông-Tây đối diện nhau, Nam-Bắc đối diện nhau), chu kỳ đèn là xanh, vàng, đỏ. Khi đèn xanh tại tuyến đường Bắc-Nam hết và chuyển vàng lúc đó camera tại tuyến đường Đông-Tây liền nhận diện/đếm số lượng người đang chờ đèn đỏ và tính số giây đèn xanh bằng trung bình cộng sớ lượng và loại phương tiện. Khi đèn xanh Đông-Tây hết và chuyển vàng tiếp tục đến camera tại đèn Bắc-Nam làm điều tương tự tiếp tục chu kỳ.
 ## 🎬 Demo
 
-![Traffic Demo](./1104.gif)
+https://github.com/user-attachments/assets/b390e1da-6e31-496d-8123-d4b302bb2c91
+
