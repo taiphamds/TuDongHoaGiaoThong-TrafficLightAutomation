@@ -1,4 +1,4 @@
-# Điều khiển đèn giao thông bằng YOLO – Dự án cá nhân
+# Tự động hóa giao thông bằng YOLO – Dự án cá nhân
 Đặt vấn đề ở ngã tư đèn giao thông: khi mật độ giao thông dày đặc thì số giây mặc định là tầm 60s vì cân bằng giữa xả hết xe chính và không làm chậm hướng khác. Nhưng khi mật độ giao thông thưa thớt, đặt tình huống rằng bên kia chỉ 1 người chờ đèn đỏ mà số giây min vẫn tầm 20s => để tối ưu tôi đề suất thuật toán bỏ giây đèn đỏ và tính giây đèn xanh dựa trên trung bình cộng số lượng và loại phương tiện giao thông(xe máy: 3s, ô-tô: 4s, xe tải/buýt: 5s) của hai tuyến đường đối nhau đang chờ đèn đỏ. 
 
 ### Ví dụ:
