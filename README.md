@@ -1,4 +1,4 @@
-# Traffic Light Control using YOLO – Personal Project
+# Traffic Light Automation using YOLO – Personal Project
 At traffic light intersections, when traffic density is high, the default light duration is around 60 seconds — this balances between clearing the main flow and not delaying the opposite direction too long.
 However, when traffic density is light — imagine there’s only one person waiting at a red light and the minimum red time is still about 20 seconds — this becomes inefficient. To optimize, I propose an algorithm that skips unnecessary red time and instead calculates the green light duration based on the average number and type of waiting vehicles (e.g., motorbike: 3s, car: 4s, truck/bus: 5s) from the two opposite lanes currently waiting at the red light.
 
